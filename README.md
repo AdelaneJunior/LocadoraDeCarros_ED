@@ -1,3 +1,3 @@
-Programas criados na disciplina de Estrutura de Dados I
+Programa que simula uma locadora de carros utilizando os conceitos de lista, pilha e fila
 
 
